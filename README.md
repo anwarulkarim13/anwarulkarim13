@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+<p align="center">
+  <img src="./profile-night-green.svg" alt="Project Metrics" width="100%" style="border-radius: 10px; max-width: 100%; height: 300px; object-fit: cover;" />
+</p>
+
+hello 
+
 ![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
 
 Example: git block version
